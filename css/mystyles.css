@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "SFProBold";
+  src: url("../fonts/sfpro/SFProDisplay-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SFProMedium";
+  src: url("../fonts/sfpro/SFProDisplay-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SFProLight";
+  src: url("../fonts/sfpro/SFProDisplay-Light.ttf") format("truetype");
+}
+
+.sf-pro-bold {
+  font-family: 'SFProBold';
+}
+
+.sf-pro-medium {
+  font-family: 'SFProMedium';
+}
+
+.sf-pro-light {
+  font-family: 'SFProLight';
+}
+
+.sf-pro-regular {
+  font-size: 16px;
+}
+
+.modal-dialog {
+  max-width: 800px;
+  margin: 100px auto;
+}
+
+.modal-body {
+position:relative;
+padding:0px;
+
+}
+.close {
+position:absolute;
+right:-30px;
+top:0;
+z-index:999;
+font-size:2rem;
+font-weight: normal;
+color:#fff;
+opacity:1;
+}
+
+.title-page-pro-title {
+  font-family: 'SFProBold';
+}
+
+.title-page-pro-text {
+  font-family: 'SFProMedium';
+  color: white;
+  margin-bottom: 64px;
+}
+
+.title-info {
+  font-family: 'SFProLight';
+  margin-bottom: 16px;
+}
+
+.title-info-text {
+  font-family: 'SFProLight';
+  font-size: 20px;
+  padding-left: 16px;
+}
+
+.wb-btn {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.mycontent-left {
+  border-right: 1px dashed #fff;
+}
+
+.video-btn {
+  margin-right: -40px;
+  border-radius: 50%;
+}
+
+.twogis_img {
+  margin-left: 8px;
+}
+
+.doctors-text {
+  font-size: 18px;
+}
+
+.avatar-picture {
+  margin-bottom: 24px;
+}
+
+.circled-picture {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.about-text {
+  font-size: 16px;
+}
