@@ -1,0 +1,8 @@
+1. Title page (Whatsapp + phone call)
+2. Services (Pricing + Description)
+3. About (Video)
+4. Make an appointment (Form)
+5. Map of the clinic
+6. Doctors
+7. Testimonials
+8. Footer
