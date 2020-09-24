@@ -104,3 +104,12 @@ opacity:1;
 .about-text {
   font-size: 16px;
 }
+
+.navbar-text-color {
+  color: black !important;
+}
+
+.nav-link span:before {
+  margin-left: 0;
+  font-size: 28px;
+}
